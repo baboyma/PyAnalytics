@@ -1,0 +1,26 @@
+[tool.poetry]
+name = "pyanalytics"
+version = "0.1.0"
+description = ""
+authors = ["Baboyma Kagniniwa <baboyma@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+pandas = "^2.2.3"
+matplotlib = "^3.10.0"
+skimpy = "^0.0.18"
+seaborn = "^0.13.2"
+numpy = "^2.2.2"
+pyspark = "^3.5.4"
+jupyterlab = "^4.3.5"
+scikit-learn = "^1.6.1"
+kagglehub = "^0.3.10"
+aiohttp = "^3.11.13"
+asyncpg = "^0.30.0"
+python-dotenv = "^1.0.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
