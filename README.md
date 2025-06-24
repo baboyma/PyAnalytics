@@ -1,6 +1,7 @@
 # PyAnalytics
 
 ![PyAnalytics](https://raw.githubusercontent.com/baboyma/PyAnalytics/main/.github/images/business-analytics.png)
+
 ![GitHub Repo stars](https://img.shields.io/github/stars/baboyma/PyAnalytics?style=social)
 ![GitHub last commit](https://img.shields.io/github/last-commit/baboyma/PyAnalytics)
 ![GitHub issues](https://img.shields.io/github/issues/baboyma/PyAnalytics)
